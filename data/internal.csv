@@ -1,0 +1,10 @@
+,CustomerTPName,Subsidiary,Industry,Organization Size,HasO365,YoY_TotalRevenue,Previous12_TotalRevenue,Previous12_to_24_TotalRevenue,NProducts,Previous12_Azure,Previous12_to_24_Azure,YoY_Azure,Previous12_ModernWork,Previous12_to_24_ModernWork,YoY_ModernWork,Cohort 
+0,Qbank,Australia,IT Services & Business Advisory,25-49,TRUE,0.18,23377.13777,19736.0173,2,6008.536667,5225.8872,0.15,17368.6011,14510.1301,0.2,Azure Migration
+1,Premier Logistics,Honduras,Transport & Logistics,50-99,TRUE,0.76,3881.43,2199.27,1,0,0,0,3881.43,2199.27,0.76,Azure Migration
+2,Riviera Partners,Mexico,Real Estate,25-49,TRUE,0.48,1359.94,917.27,1,0,0,0,1359.94,917.27,0.48,Dark to Cloud
+3,Optometrics,Mexico,Discrete Manufacturing,2500+,TRUE,-0.19,2118.69,2517.9,1,0,0,0,2118.69,2517.9,-0.19,
+4,Redcat,Australia,Hospitality,100-299,TRUE,0.95,23297.9564,11919.4748,3,0,0,0,13779.57123,11919.4748,0.16,
+5,Bts,Mexico,,0-4,TRUE,7.86,1114.526667,125.7533333,1,0,0,0,1114.526667,125.7533333,7.86,Dark to Cloud
+6,Hardi Aged Care,Australia,Health Provider,500-1000,TRUE,-0.12,25051.4082,28087.8097,1,0,0,0,25051.4082,28087.8097,-0.12,Dark to Cloud
+7,Netpeak,Ukraine,Other Professional Services,100-299,FALSE,0.68,629.99,376,,0,0,0,0,0,0,
+8,Softwareone,Bulgaria,,300-500,TRUE,,64993.66257,0,1,0,0,0,64993.66257,0,,
